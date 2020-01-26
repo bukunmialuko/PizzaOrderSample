@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Api\\PizzaOrder.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Api\\PizzaOrder.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Api\\PizzaOrder.Api.csproj",
+        "projectName": "PizzaOrder.Api",
+        "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Api\\PizzaOrder.Api.csproj",
+        "packagesPath": "C:\\Users\\GoldenEagle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoldenEagle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj": {
+                "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj"
+              },
+              "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj": {
+                "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj"
+              },
+              "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.GraphQLModels\\PizzaOrder.GraphQLModels.csproj": {
+                "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.GraphQLModels\\PizzaOrder.GraphQLModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "GraphQL.Authorization": {
+              "target": "Package",
+              "version": "[3.0.38-preview-38, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[3.5.0-alpha0027, )"
+            },
+            "GraphQL.Server.Transports.WebSockets": {
+              "target": "Package",
+              "version": "[3.5.0-alpha0027, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[3.5.0-alpha0027, )"
+            },
+            "GraphQL.Server.Ui.Voyager": {
+              "target": "Package",
+              "version": "[3.5.0-alpha0027, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj",
+        "projectName": "PizzaOrder.Business",
+        "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj",
+        "packagesPath": "C:\\Users\\GoldenEagle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoldenEagle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj": {
+                "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj",
+        "projectName": "PizzaOrder.Data",
+        "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\PizzaOrder.Data.csproj",
+        "packagesPath": "C:\\Users\\GoldenEagle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoldenEagle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.GraphQLModels\\PizzaOrder.GraphQLModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.GraphQLModels\\PizzaOrder.GraphQLModels.csproj",
+        "projectName": "PizzaOrder.GraphQLModels",
+        "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.GraphQLModels\\PizzaOrder.GraphQLModels.csproj",
+        "packagesPath": "C:\\Users\\GoldenEagle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.GraphQLModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoldenEagle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj": {
+                "projectPath": "C:\\Users\\GoldenEagle\\source\\repos\\PizzaOrder\\PizzaOrder.Business\\PizzaOrder.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[3.0.0-preview-1352, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\bin\Debug\netcoreapp3.1\PizzaOrder.Data.deps.json
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\bin\Debug\netcoreapp3.1\PizzaOrder.Data.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\obj\Debug\netcoreapp3.1\PizzaOrder.Data.csprojAssemblyReference.cache
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\obj\Debug\netcoreapp3.1\PizzaOrder.Data.AssemblyInfoInputs.cache
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\obj\Debug\netcoreapp3.1\PizzaOrder.Data.AssemblyInfo.cs
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\bin\Debug\netcoreapp3.1\PizzaOrder.Data.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\obj\Debug\netcoreapp3.1\PizzaOrder.Data.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Data\obj\Debug\netcoreapp3.1\PizzaOrder.Data.pdb

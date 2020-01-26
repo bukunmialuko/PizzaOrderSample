@@ -1,0 +1,13 @@
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\PizzaOrder.Business.deps.json
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\PizzaOrder.Business.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\PizzaOrder.Business.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\PizzaOrder.Data.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\PizzaOrder.Data.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\obj\Debug\netcoreapp3.1\PizzaOrder.Business.csprojAssemblyReference.cache
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\obj\Debug\netcoreapp3.1\PizzaOrder.Business.AssemblyInfoInputs.cache
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\obj\Debug\netcoreapp3.1\PizzaOrder.Business.AssemblyInfo.cs
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\obj\Debug\netcoreapp3.1\PizzaOrder.Business.csproj.CopyComplete
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\obj\Debug\netcoreapp3.1\PizzaOrder.Business.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\obj\Debug\netcoreapp3.1\PizzaOrder.Business.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.Business\bin\Debug\netcoreapp3.1\System.Reactive.xml

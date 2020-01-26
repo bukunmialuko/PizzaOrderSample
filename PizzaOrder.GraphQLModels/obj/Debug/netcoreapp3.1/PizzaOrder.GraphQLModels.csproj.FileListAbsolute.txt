@@ -1,0 +1,15 @@
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.deps.json
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\obj\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.csprojAssemblyReference.cache
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\obj\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.AssemblyInfoInputs.cache
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\obj\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.AssemblyInfo.cs
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.Business.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.Data.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.Business.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\PizzaOrder.Data.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\obj\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.csproj.CopyComplete
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\obj\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\obj\Debug\netcoreapp3.1\PizzaOrder.GraphQLModels.pdb
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\GoldenEagle\source\repos\PizzaOrder\PizzaOrder.GraphQLModels\bin\Debug\netcoreapp3.1\System.Reactive.xml
